@@ -105,6 +105,6 @@ Punkme is not just a messaging protocol — it is the foundation for an **AI-pow
 - Linktree: [https://linktr.ee/punkme_xyz](https://linktr.ee/punkme_xyz) 
 - GitHub: [https://github.com/punkme-protocol](https://github.com/punkme-protocol)  
 - Twitter: [@punkme_xyz](https://twitter.com/punkme_xyz)  
-- Discord: [https://discord.gg/punkme](https://discord.gg/punkme)
+- Discord: [https://discord.gg/fHr7jMsccq](https://discord.gg/fHr7jMsccq)
 
 ---
