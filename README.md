@@ -1,4 +1,7 @@
 # 🧬 Punkme Whitepaper v1.0
+
+**Poke me! Troll me! Ambassador for me!**
+
 *“AI-powered Cross-chain Messaging & Gifting Protocol”*
 
 ---
